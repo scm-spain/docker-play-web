@@ -6,5 +6,5 @@ This repo is to host and share a Dockerfile to build an image with all software 
 ## Usage
 Run this command to build the image:
 ```
-docker build -t docker-play-web:latest .
+docker build -t schibstedspain/docker-play-web:TAG .
 ```
